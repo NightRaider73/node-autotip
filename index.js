@@ -13,11 +13,12 @@ let uuid;
 let autotipSession;
 
 const options = {
-  host: 'mc.hypixel.net',
-  port: 25565,
-  version: '1.8.9',
-  username: credentials.username,
-  password: credentials.password,
+  host: 'hypxiel.net', 
+  username: 'email@example.com', // You can change this
+  password: '12345678', // You can change this
+  port: 25565,             
+  version: '1.8.9',             
+  auth: 'microsoft'    
 };
 
 function getUUID() {
