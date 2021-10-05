@@ -13,7 +13,7 @@ let uuid;
 let autotipSession;
 
 const options = {
-  host: 'hypxiel.net', 
+  host: 'mc.hypxiel.net', 
   username: 'email@example.com', // You can change this
   password: '12345678', // You can change this
   port: 25565,             
